@@ -22,7 +22,13 @@
 |mIoU| 0.3971 | 0.3406 | **0.4947** |
 |Pixel Acc| 0.8537 | 0.8043 | **0.8805** |
 
-## Citation
+## Reference
+XAI606 Project provider: https://github.com/mjy8086/semantic_segmentation_2D_ViT_UNet
+
 Drone segmentation dataset: http://dronedataset.icg.tugraz.at
+
+Drone segmentation ipynb: https://github.com/tanishqgautam/Drone-Image-Semantic-Segmentation
+
+TransUNet: https://github.com/Beckschen/TransUNet
 
 UTNet, Swin Unet model: https://github.com/yhygao/UTNet
