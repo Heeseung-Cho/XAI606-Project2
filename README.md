@@ -1,4 +1,7 @@
 # XAI606-Project2
+This repository is for project in XAI606 courses.
+
+Project provider: https://github.com/mjy8086/semantic_segmentation_2D_ViT_UNet
 
 ## Dataset
 <img class="Drone" src="https://www.tugraz.at/fileadmin/_migrated/pics/fyler3.png">
@@ -23,8 +26,6 @@
 |Pixel Acc| 0.8537 | 0.8043 | **0.8805** |
 
 ## Reference
-XAI606 Project provider: https://github.com/mjy8086/semantic_segmentation_2D_ViT_UNet
-
 Drone segmentation dataset: http://dronedataset.icg.tugraz.at
 
 Drone segmentation ipynb: https://github.com/tanishqgautam/Drone-Image-Semantic-Segmentation
