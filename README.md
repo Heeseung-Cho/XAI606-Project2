@@ -5,10 +5,10 @@
 
 ## Training Result
 
-### Accuracy
+### Loss
 <img class="Loss" src="Result/Loss_total.png">
 
-### Loss
+### Pixel Accuracy
 <img class="Acc" src="Result/Acc_total.png">
 
 ### mIoU
